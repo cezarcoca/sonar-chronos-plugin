@@ -28,3 +28,9 @@ Run the build script:
 To feed [SonarQube](https://docs.sonarqube.org/display/SONAR/Documentation) with Chronos support, use below command
 
     mvn sonar:sonar
+    
+**Configuration**
+
+Log in as a [system administrator](https://docs.sonarqube.org/display/SONAR/Authorization) , go to **Administration > Configuration > Chronos** tab and specify the Chronos Server connection URL
+
+![Chronos/SonarQube configuration tab](https://drive.google.com/uc?id=0B9tMA3RbZ5P_NlRCbmMtMGlDNlE)
